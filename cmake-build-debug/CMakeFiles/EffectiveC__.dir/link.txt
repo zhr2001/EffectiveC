@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/EffectiveC__.dir/main.cpp.o  -o EffectiveC__ 

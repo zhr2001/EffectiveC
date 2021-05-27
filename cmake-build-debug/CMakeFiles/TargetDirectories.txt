@@ -1,0 +1,3 @@
+/tmp/tmp.ncprmVa5AI/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/tmp/tmp.ncprmVa5AI/cmake-build-debug/CMakeFiles/EffectiveC__.dir
+/tmp/tmp.ncprmVa5AI/cmake-build-debug/CMakeFiles/edit_cache.dir
